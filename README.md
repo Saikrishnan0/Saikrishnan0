@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishnan-p&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishnan-p" /> </p>
 
-- 🔭 I’m currently pursuing my B.TECH CSE degree on [Untittled](dfuy)
+- 🔭 I’m currently pursuing my B.TECH CSE degree - 4th year
 
 - 🌱 I’m currently learning **Java Fullstack**
 
