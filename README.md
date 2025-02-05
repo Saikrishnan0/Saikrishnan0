@@ -47,7 +47,7 @@ I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript`
 
 **Programming Languages:** `JavaScript` `Python` `TypeScript`
 
@@ -57,24 +57,16 @@ I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 **Version Control:** `Git` `GitHub`
 
-**Databases:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
+**Databases:** `MySQL` `MongoDB` `PostgreSQL` 
 
 **Software:** `Visual Studio Code` `MySQL Workbench` `MongoDB Compass` `Git Bash` `GitHub Desktop`
-
-**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
 
 **Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
 
 **Tools and Platforms:** `Docker` `CI/CD Pipelines` `REST APIs` `Agile/Scrum`
 
-## ✨ Fun Facts
-
-- 🎬 "The Pursuit of Happyness" is my favorite movie.
-- 🍿 I prefer Hollywood movies over Bollywood.
-- 🧠 I enjoy gaining knowledge from various sources, be it books, videos, or conversations.
-
 ## 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/sandy_sag_) or [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
+For a quick response, DM me on [Gmail](mailto:your-psaikrishnan7@gmail.com) or [LinkedIn](https://www.linkedin.com/in/saikrishnan-p/).
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and chat!</b></em>
