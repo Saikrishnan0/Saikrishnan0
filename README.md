@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h2>SAIKRISHNAN </h2>
+  <h2>SAIKRISHNAN P</h2>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+Am+a+FullStack+Developer%7CAlso+a+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+Am+a+FullStack+Developer" alt="Typing SVG">
 </div>
 
 ###
