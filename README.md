@@ -8,19 +8,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/manoj-sasikumar/">
+  <a href="https://www.linkedin.com/in/saikrishnan-p/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
   </a>
-  <a href="https://medium.com/@manojsasi2003">
+  <a href="https://medium.com/@saikrishnansk12">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/manojsasi2003">
+  <a href="https://www.hackerrank.com/profile/Saikrishnan2004">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo"  />
   </a>
-  <a href="https://www.codechef.com/users/manojsasikumar">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodeChef logo"  />
-  </a>
-  <a href="https://leetcode.com/u/17manojsr/">
+  
+  <a href="https://leetcode.com/u/Saikrishnan2004/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F89F1B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo"  />
   </a>
 </div>
